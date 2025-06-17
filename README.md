@@ -31,9 +31,9 @@ An elegant and intuitive platform designed to simplify the process of organizing
 - React Router
 - Firebase Auth & Storage (or your preferred backend)
 
-**Backend (optional if used separately):**
+**Backend 
 - Node.js
 - Express.js
-- MongoDB / Firebase Firestore
+- MongoDB 
 - Socket.io (for chat)
 
